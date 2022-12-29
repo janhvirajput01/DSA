@@ -2,7 +2,7 @@
 #include<string.h>
 using namespace std;
 int main(){
-  string str ="Coding Ninjas Is A Coding Platform";
+  string str ="Welcome You all";
    for(int i=0;str[i]!='\0';i++){
         if(str[i]==' '){
         
