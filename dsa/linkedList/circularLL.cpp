@@ -109,8 +109,8 @@ int main(){
     insertNode(tail,4,5);
     print(tail);
 
-    insertNode(tail,5,4);
-    print(tail);
+    // insertNode(tail,5,4);
+    // print(tail);
 
 if(isCircularLL(tail)){
     cout<<"YES";
@@ -123,6 +123,6 @@ if(isCircularLL(tail)){
     // insertNode(tail,4,2);
     // print(tail);
 
-    // deleteNode(tail,5);
-    // print(tail);
+    deleteNode(tail,5);
+    print(tail);
 }

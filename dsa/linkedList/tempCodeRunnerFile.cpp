@@ -1,2 +1,5 @@
-deleteNode(tail,5);
-    // print(tail);
+if(isCircularLL(tail)){
+//     cout<<"YES";
+// }else{
+//     cout<<"NO";
+// }

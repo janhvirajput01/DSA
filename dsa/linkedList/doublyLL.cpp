@@ -142,7 +142,7 @@ int main()
     insertAtHead(head, 12);
     print(head);
 
-    insertAtHead(head, 13);
+    /*insertAtHead(head, 13);
     print(head);
 
     insertAtHead(head, 14);
@@ -167,5 +167,5 @@ int main()
     deleteNode(head, tail, 7);
     print(head);
     cout << "head : " << head->data << endl;
-    cout << "tail : " << tail->data;
+    cout << "tail : " << tail->data;*/
 }
